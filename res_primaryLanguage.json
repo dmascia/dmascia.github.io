@@ -1,0 +1,52 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm David Mascia. Senior Fullstack Engineer with over 12 years of expertise in building scalable, high-performance web applications. Proficient in front-end fundamentals and modern frameworks like React, Node.js, and Next.js, with a proven ability to optimize systems and deliver impactful solutions.",
+      "section_name": {
+        "about": "About me",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [],
+    "experience": [
+      {
+        "company": "Volume",
+        "title": "Lead Software Engineer",
+        "years": "Sept 2022 – Oct 2024",
+        "mainTech": [
+          "Next.js"
+        ],
+        "technologies": [
+          "REST API",
+          "TypeScript",
+          "Material Design",
+          "Redux"
+        ]
+      },
+      {
+        "company": "CardCash",
+        "title": "Lead Software Engineer",
+        "years": "Jul 2015 – Sept 2022 ",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "Redux",
+          "React Native",
+          "JavaScript",
+          "REST API", 
+          "Node.js"
+        ]
+      },
+      {
+        "company": "Scivantage",
+        "title": "Software Engineer",
+        "years": "Sept 2012 – Apr 2015",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": ["REST API"]
+      }
+    ]
+  }
